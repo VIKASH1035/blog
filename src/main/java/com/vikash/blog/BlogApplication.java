@@ -10,6 +10,7 @@ public class BlogApplication {
 		SpringApplication.run(BlogApplication.class, args);
 
 		System.out.println("hi vikash , welcome to jp morgan & chase!. ");
+		System.out.println("Your SID IS: O799322. ");
 	}
 
 }
